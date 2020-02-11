@@ -5,7 +5,7 @@
       ]
   },
 
-  "flex-layout.row#main": { 
+  "flex-layout.row": { 
     "props": { 
       "marginTop": 6
     },
