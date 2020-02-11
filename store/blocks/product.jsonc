@@ -54,6 +54,13 @@
       ]
     },
 
+    "sku-selector" : {
+      "props" : {
+        "showVariationsErrorMessage" : true,
+        "initialSelection" : "empty"
+      }
+    },
+
     "product-price": {
         "props": {
             "showSavings": true,
