@@ -1,7 +1,7 @@
 {
   "store.product": {
      "blocks": [
-       "flex-layout.row"
+       "flex-layout.row#main"
       ]
   },
 
@@ -23,7 +23,9 @@
 
   "flex-layout.col#right" : {
     "props" : {
-      "verticalAlign" : "middle"   
+      "verticalAlign" : "middle",
+      "preventVerticalStretch" : true
+
     },
     "children" : [
       "product-name", 
