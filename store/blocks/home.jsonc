@@ -35,7 +35,6 @@
         "textAlignment": "CENTER"
       }
     },
-
     "image#desktop": {
       "props": {
         "maxWidth" : "100%",
