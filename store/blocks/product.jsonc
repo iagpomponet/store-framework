@@ -4,7 +4,6 @@
        "flex-layout.row#main"
       ]
   },
-
   "flex-layout.row#main": { 
     "props": { 
       "marginTop": 6
@@ -14,19 +13,16 @@
       "flex-layout.col#right"
     ]
   },
-
   "flex-layout.col#left" : {
     "children" : [
       "product-images"
     ]
   },
-
   "flex-layout.col#right" : {
     "props" : {
       "verticalAlign" : "middle",
       "preventVerticalStretch": true
     },
-    
     "children" : [
       "product-name", 
       "product-price",
