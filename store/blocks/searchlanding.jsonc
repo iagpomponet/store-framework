@@ -1,8 +1,0 @@
-{
-    "store.custom#landing": {
-        "blocks": [
-            // "image#landing-banner",
-            "search-result-layout.customQuery"
-        ]
-    }
-}
