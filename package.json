@@ -4,7 +4,7 @@
   "description": "The template repository for the Store Framework course on Learning Lab.",
   "main": "index.js",
   "scripts": {
-    "push": "git add . && git commit -m 'commit' && git push origin search"
+    "push": "git add . && git commit -m 'commit' && git push origin search2"
   },
   "repository": {
     "type": "git",
