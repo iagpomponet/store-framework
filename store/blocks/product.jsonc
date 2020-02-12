@@ -23,15 +23,20 @@
     },
     "stack-layout#brand": {
       "props" : {
-        "height" : "30px",
-        "displayMode" : "logo"
+        
       },
 
       "children": [
         "product-images",
         "product-brand"
       ]
-    },
+    },    
+  "product-brand" : {
+    "props" : {
+      "height" : "30px",
+      "displayMode" : "logo"
+    }
+  },
   "flex-layout.col#right": {
     "props": {
         "verticalAlign": "middle",
