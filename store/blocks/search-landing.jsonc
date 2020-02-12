@@ -1,8 +1,14 @@
 {
     "store.custom#landing": {
         "blocks": [
+            "image#landingbanner", 
             "search-result-layout.customQuery"
         ]
+    },
+
+    "image#landingbanner": {
+        "minWidth" : "100%",
+        "src" : "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1"
     },
 
     "search-result-layout.customQuery" : {
