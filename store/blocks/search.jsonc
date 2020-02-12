@@ -10,11 +10,6 @@
       "search-result-layout.mobile",
       "search-not-found-layout"
     ],
-
-    "props" : {
-      "pagination" : "show-more",
-      "preventRouteChange" : true
-    }
   },
 
   "search-result-layout.desktop" : {
@@ -27,6 +22,11 @@
       "search-content",
       "filter-navigator.v3",
       "search-fetch-more"
-    ]
+    ],
+    
+    "props" : {
+      "pagination" : "show-more",
+      "preventRouteChange" : true
+    }
   }
 }
