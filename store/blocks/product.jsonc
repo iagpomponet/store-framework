@@ -22,21 +22,19 @@
       ]
     },
     "stack-layout#brand": {
-      "props" : {
-        
-      },
-
       "children": [
         "product-images",
         "product-brand"
       ]
     },    
+    
   "product-brand" : {
     "props" : {
       "height" : "30px",
       "displayMode" : "logo"
     }
   },
+
   "flex-layout.col#right": {
     "props": {
         "verticalAlign": "middle",
@@ -61,8 +59,9 @@
 
     "sku-selector" : {
       "props" : {
+        "showValueForVariation" : true,
         "showVariationsErrorMessage" : true,
-        "initialSelection" : "empty"
+        "initialSelectio" : "empty"
       }
     },
 
