@@ -65,8 +65,8 @@
 
   "product-summary.shelf" : {
     "children" : [
-      "product-summary-buy-button",
-      "product-summary-sku-selector"
+      "product-summary-sku-selector",
+      "product-summary-buy-button"
     ]
   }
 }
