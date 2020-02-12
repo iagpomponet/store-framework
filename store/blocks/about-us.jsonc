@@ -1,11 +1,10 @@
 {
   "store.custom#about-us": {
     "blocks": [
-				// "flex-layout.row#about-us",
-				// "tab-layout",
 				"tab-layout#home"
     ]
 	},
+
 	"tab-layout#home" : {
 		"children" : [
 			"tab-list#home",
