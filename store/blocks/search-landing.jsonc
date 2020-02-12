@@ -18,7 +18,7 @@
             "orderByField": "OrderByReleaseDateDESC",
             "hideUnavailableItems": true,
             "maxItemsPerPage": 8,
-            "querySchema": "Camera Retro Azul Top",
+            "querySchema": ["Blue Top Retro Camera"],
             "mapField" : "ft"
         }
     }
