@@ -7,16 +7,19 @@
     },
 
     "image#landingbanner": {
+       "props" : {
         "minWidth" : "100%",
         "src" : "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1"
+       }
     },
 
     "search-result-layout.customQuery" : {
-        "maxItemsPerPage": 8,
-        "orderByField": "OrderByReleaseDateDESC",
-        "hideUnavailableItems": true,
-        "mapField" : "ft",
-        "queryField": "Blue Top Retro Camera"
-
+        "props": {
+            "maxItemsPerPage": 8,
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "mapField" : "ft",
+            "queryField": "Blue Top Retro Camera"
+        }
     }
 }
