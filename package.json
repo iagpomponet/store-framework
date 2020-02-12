@@ -1,0 +1,19 @@
+{
+  "name": "store-framework",
+  "version": "1.0.0",
+  "description": "The template repository for the Store Framework course on Learning Lab.",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m 'commit' && git push origin search"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagpomponet/store-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iagpomponet/store-framework/issues"
+  },
+  "homepage": "https://github.com/iagpomponet/store-framework#readme"
+}
