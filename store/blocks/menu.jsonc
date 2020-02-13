@@ -24,12 +24,6 @@
         ]
     },
 
-    "flex-layout.col#menu": {
-        "children" : [
-            "vtex.menu@2.x#major"
-        ]
-    },
-
     "flex-layout.col#img": {
         "children": [
             "image#menu",
