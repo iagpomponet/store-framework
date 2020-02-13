@@ -28,6 +28,19 @@
         "vtex.menu@2.x:submenu#small"
     ]
   },
+
+  "vtex-menu@2.x:menu#small" : {
+    "props" : {
+      "orientation" : "vertical"
+    },
+
+    "blocks" : [
+      "menu-item#mixers",
+      "menu-item#toasters",
+      "menu-item#coffee"
+    ]
+  },
+
   "menu-item#electronics": {
       "props":
     {
