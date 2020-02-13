@@ -40,9 +40,9 @@
 
     "vtex.menu@2.x:menu#small" : {
         "children" : [
-            "menu-item#cameras",
-            "menu-item#laptops",
-            "menu-item#tvs"
+            "menu-item#mixers",
+            "menu-item#toasters",
+            "menu-item#coffee"
         ],
 
         "props" : {
