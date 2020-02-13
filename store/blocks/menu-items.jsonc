@@ -34,7 +34,7 @@
       "orientation" : "vertical"
     },
 
-    "blocks" : [
+    "children" : [
       "menu-item#mixers",
       "menu-item#toasters",
       "menu-item#coffee"
