@@ -29,17 +29,6 @@
     ]
   },
 
-  "vtex-menu@2.x:menu#small" : {
-    "props" : {
-      "orientation" : "vertical"
-    },
-
-    "children" : [
-      "menu-item#mixers",
-      "menu-item#toasters",
-      "menu-item#coffee"
-    ]
-  },
 
   "menu-item#electronics": {
       "props":
